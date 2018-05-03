@@ -1,0 +1,6 @@
+[submodule "pt-BR"]
+	path = pt-BR
+	url = https://github.com/InternetPublicLibrary/pt-BR
+[submodule "en-US"]
+	path = en-US
+	url = https://github.com/InternetPublicLibrary/en-US
